@@ -1,5 +1,5 @@
 
-<h1 style='color:blue'>Hi 👋, I'm Tobibor Rahman</h1>
+<h1 style='color:#1589F0;'>Hi 👋, I'm Tobibor Rahman</h1>
 
 
 - 🔭 I’m currently working at **Home**
