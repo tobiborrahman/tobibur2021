@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working at **Home**
-<br/>
 - 🌱 I’m currently learning **Next JS**
 <br/>
 - 👯 I’m looking to collaborate on **Front End Development**
