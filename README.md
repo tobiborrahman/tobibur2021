@@ -1,5 +1,5 @@
 
-<h1 style="color:blue, font-size: 25px;">Hi 👋, I'm Tobibor Rahman</h1>
+<h1>Hi 👋, I'm Tobibor Rahman</h1>
 
 
 - 🔭 I’m currently working at **Home**
