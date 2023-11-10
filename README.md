@@ -1,4 +1,4 @@
-                                                                      # Hi 👋, I'm Tobibor Rahman
+  <h2 style='text-align:center; color: blue; font-size: 25px'>Hi 👋, I'm Tobibor Rahman</h2>
 
 
 - 🔭 I’m currently working at **Home**
